@@ -1,0 +1,8 @@
+logging:
+  config:logback.xml
+level:
+  com.itshyt.springboot_quick.Dao: trace
+spring:
+  profiles:
+    active:
+    - dev

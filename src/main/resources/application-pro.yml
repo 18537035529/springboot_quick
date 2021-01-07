@@ -1,0 +1,6 @@
+server:
+  port: 8002
+url:
+  orderUrl: http://localhost:8082
+  queryUrl: http://localhost:8004
+  refundUrl: http://localhost:8003
